@@ -1,4 +1,4 @@
-# 🧬 PharmaAI: Automated Document Processing & intelligence System  
+# 🧬 PharmaAI: Automated Document Processing System  
 **Precision AI Orchestration for Clinical & Regulatory Compliance**
 
 ---
