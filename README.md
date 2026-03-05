@@ -169,7 +169,7 @@ See how a 50-page Clinical Study Report is processed in under 60 seconds—from 
 ### 📑 Clinical Study Reports (CSR / CTD)
 
 #### Input Document
-![CSR Input](./assets/images/csr-input.jpg)
+![CSR Input](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/13e4f4ea67148e7efcd03dbec8fef94de9661f4c/Automated%20Document%20Processing%20System/architecture/Input%20Document.png/Clinical%20study%20Report.png)
 
 #### Extracted Output
 ![CSR Output](./assets/images/csr-output.jpg)
