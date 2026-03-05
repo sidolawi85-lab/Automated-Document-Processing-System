@@ -51,7 +51,7 @@ PharmAI operates on a proprietary **"Validate–Route–Extract"** architecture 
 ![Ingestion Process](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/b44ba3743ef1b18e515270fbeaaa063d8e930550/Automated%20Document%20Processing%20System/architecture/automation.png/Document%20Ingestion/Automated%20Document%20Ingestion.png)
 
 <!-- EXTRACTION & ARCHIVING STAGE IMAGE -->
-![Extraction and Archiving](./assets/images/automation-extraction-archiving.jpg)
+![Extraction and Archiving](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/4ddf698e9ad7ad471eef4d4c06125dc8d46f5090/Automated%20Document%20Processing%20System/architecture/automation.png/Extaction%20Engine/Extraction%20Engine.png)
 
 ### Workflow Pipeline
 
