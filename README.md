@@ -172,7 +172,7 @@ See how a 50-page Clinical Study Report is processed in under 60 seconds—from 
 ![CSR Input](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/13e4f4ea67148e7efcd03dbec8fef94de9661f4c/Automated%20Document%20Processing%20System/architecture/Input%20Document.png/Clinical%20study%20Report.png)
 
 #### Extracted Output
-![CSR Output](./assets/images/csr-output.jpg)
+![CSR Output](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/9d7a9c30ead4ec244082d445f71845de8974bee3/Automated%20Document%20Processing%20System/architecture/output%20Document.png/Clinical%20Study%20Summary%20Document.png)
 
 - Trial design extraction  
 - Outcome summarization  
