@@ -6,7 +6,7 @@
 <!-- PROJECT COVER IMAGE -->
 ![Alt Text](https://github.com/sidolawi85-lab/Automated-Document-Processing-Engine/blob/76622e24f70e3fd14b2d05d502354031c6220703/Automated%20Document%20Processing%20System/architecture/cover.png/Automated%20Document%20Processing%20System%20Cover%20Photo.png)
 
-PharmAI is an enterprise-grade AI automation system that transforms unstructured pharmaceutical documents into structured, audit-ready regulatory intelligence.
+🧬PharmAI is an enterprise-grade AI automation system that transforms unstructured pharmaceutical documents into structured, audit-ready regulatory intelligence.
 
 It replaces slow, error-prone manual review with intelligent, agentic workflows—reducing compliance costs, accelerating approvals, and converting lost time into recovered revenue.
 
